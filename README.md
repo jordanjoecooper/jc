@@ -1,7 +1,8 @@
+# List of exaplantions, notes and ideas.
 
-
-
-
+- No frameworks.
+- HTML, CSS & JS ony, where possible CSS first.
+- Site must work with JS turned off (maybe)?
 
 
 ### Background Colours.
@@ -30,11 +31,10 @@ Consolas is a sans serif font with a unique approach to design. All characters h
 - GARAMOND: Font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif.
 Garamond is a serif font, inspired by typefaces made by the 16th-century Parisian engraver, Claude Garamond. It has softer, rounder edges than some of the more standard serif fonts, like Times New Roman. Modern versions of Microsoft and Apple OS include their own versions of the Garamond font.
 
-Apple mainstay
 - BASKERVILLE: Font-family: Perpetua, Baskerville, Big Caslon, Palatino Linotype, Palatino, serif;
 Perpetua is a serif font with a unique design, originally created by English sculptor Eric Gill. There’s a sharp contrast in the stroke weight, for example, look at the lowercase “e” or the number “3”. This gives the font a creative, almost playful quality. It’s typically a Windows font, but Baskerville, a close relative, is standard on most Apple devices.
 
 
-
+### Cool links to consider
 Better headings
 https://testsigma.com/blog/header-css/
