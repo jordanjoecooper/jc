@@ -3,7 +3,7 @@
 - No frameworks.
 - HTML, CSS & JS ony, where possible CSS first.
 - Site must work with JS turned off (maybe)?
-- Keep it light the goal is under 2kb excluding images, forever.
+- Keep it light is the goal try to always be under the average size of sites. To date that is roughly  2.00-4.00MB - the goal here should be always under 1MB, for fun.
 
 ### Background Colours.
 Greys as a background is a little abnormal but it gives you the ability to use blacks and whites in ways you otherwise coudnt.
