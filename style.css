@@ -3,6 +3,7 @@ body, html {
   color: #313131;
   font-family: Perpetua, Baskerville, Big Caslon, Palatino Linotype,
     Palatino, serif;
+    font-size: clamp(100%, 1rem + 2vw, 24px);
   line-height: calc(
     1em + 0.5rem
   ); /* Nicer standard line height, may need override for headings */
@@ -22,7 +23,7 @@ select {
 /* Custom stuff */
 .pageHeading {
   color: #2f2e2d;
-  font-size: 10vw;
+  font-size: 8vw;
   font-weight: 600;
   padding: 0;
   margin: 0;
