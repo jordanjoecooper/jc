@@ -34,8 +34,7 @@ select {
   margin-top: 1rem;
   letter-spacing: 2px;
 }
-
-.titleBox {
+.landingBox {
   overflow: hidden;
   position: absolute;
   width: 100%;
