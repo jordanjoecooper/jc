@@ -21,17 +21,6 @@ select {
 }
 
 /* WELCOME, if you are reading this, why? This is an example of how not to do good CSS :) */
-.pageHeading {
-  font-size: 7vw;
-  font-weight: 600;
-  padding: 0;
-  letter-spacing: 3px;
-}
-.belowHeading {
-  color: rgb(107 114 128);
-  margin-top: 1rem;
-  letter-spacing: 3px;
-}
 .landingBox {
   overflow: hidden;
   position: absolute;
@@ -41,4 +30,14 @@ select {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+.landingBoxHeading {
+  font-size: 7vw;
+  font-weight: 600;
+  letter-spacing: 3px;
+}
+.landingBoxSubHeading {
+  color: rgb(107 114 128);
+  margin-top: 1rem;
+  letter-spacing: 3px;
 }
