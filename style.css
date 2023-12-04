@@ -1,9 +1,9 @@
 body, html {
-  background-color: #f5f5f5;
-  color: #2f2e2d;
+  background-color: #f5f5f5; /* Nicer white */
+  color: #2f2e2d; /* Nicer black */
   font-family: Perpetua, Baskerville, Big Caslon, Palatino Linotype,
     Palatino, serif;
-    font-size: clamp(100%, 1rem + 2vw, 24px);
+    font-size: clamp(100%, 1rem + 2vw, 24px); /* Responsive font size */
   line-height: calc(
     1em + 0.5rem
   ); /* Nicer standard line height, may need override for headings */
@@ -20,12 +20,11 @@ select {
   margin: 0;
 }
 
-/* Custom stuff */
+/* WELCOME, if you are reading this, why? This is an example of how not to do good CSS :) */
 .pageHeading {
   font-size: 7vw;
   font-weight: 600;
   padding: 0;
-  margin: 0;
   letter-spacing: 3px;
 }
 .belowHeading {
@@ -40,6 +39,6 @@ select {
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center; /*centers items on the line (the x-axis by default)*/
-  align-items: center; /*centers items on the cross-axis (y by default)*/
+  justify-content: center;
+  align-items: center;
 }
